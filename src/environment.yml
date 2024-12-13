@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10 # Explicitly specifying Python version for better compatibility
+  - requests
   - xgboost=2.0.3
   - numpy>=1.20
   - pandas=2.1.1
