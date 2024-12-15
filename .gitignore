@@ -1,3 +1,5 @@
 diagramas/**
 documentos/**
 **.env
+**/cache
+src/**.csv
